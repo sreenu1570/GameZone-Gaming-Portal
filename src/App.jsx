@@ -9,9 +9,9 @@ import {
 import {
   AuthProvider,
   useAuth
-} from "./context/AuthContext";
+} from "./context/Authcontext";
 
-import ProtectedRoute from "./components/ProtectedRoute";
+import ProtectedRoute from "./components/Protectedroute";
 
 import Login from "./pages/Login";
 import Register from "./pages/Register";
